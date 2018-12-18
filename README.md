@@ -1,1 +1,2 @@
 # TipCalculatorApp
+CHnegd in readme
